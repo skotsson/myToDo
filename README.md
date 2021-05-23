@@ -1,4 +1,4 @@
-# Information about the myToDo (GottaDo) project and future plans
+# Information about the myToDo ([GottaDo](https://github.com/gotta-do)) project and future plans
 
 ## Table of contents
 
